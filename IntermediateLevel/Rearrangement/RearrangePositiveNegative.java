@@ -1,4 +1,4 @@
-//Rearrange positive and negative numbers
+//Rearrange in alternative positive and negative numbers
 package IntermediateLevel.Rearrangement;
 
 public class RearrangePositiveNegative {
